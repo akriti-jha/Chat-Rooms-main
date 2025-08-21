@@ -1,8 +1,8 @@
 # Chat-Rooms System
 
-This project is a real-time web-based chat room application built using **HTML, CSS, JavaScript, PHP, and MySQL. It allows users to easily create and join chat rooms, making group communication simple and accessible through a browser.
+This project is a real-time web-based chat room application built using HTML, CSS, JavaScript, PHP, and MySQL. It allows users to easily create and join chat rooms, making group communication simple and accessible through a browser.
 
-🔹 **Key Features:
+🔹 Key Features:
 
 * Users can create chat rooms instantly with a custom name.
 * A unique room link is generated that can be shared with others.
